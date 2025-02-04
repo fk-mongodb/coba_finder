@@ -1,0 +1,1 @@
+npm run-script two_hr_bucket_by_area
