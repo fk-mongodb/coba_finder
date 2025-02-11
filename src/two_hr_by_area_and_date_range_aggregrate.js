@@ -50,7 +50,7 @@ async function ops(client) {
 
   const areaKeywordToSearch = "";
   const fromTs = "2025-01-26T06:00:00.000Z";
-  const toTs = "2025-02-01T06:00:00.000Z";
+  const toTs = "2025-03-01T06:00:00.000Z";
 
   const fromMoment = moment(fromTs);
   const toMoment = moment(toTs);

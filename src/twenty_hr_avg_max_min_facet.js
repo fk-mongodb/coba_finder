@@ -48,7 +48,7 @@ async function main() {
 async function ops(client) {
   const db = await client.db("coba");
 
-  const fromTs = "2025-01-26T06:00:00.000Z";
+  const fromTs = "2025-02-10T06:00:00.000Z";
   const toTs = "2025-03-01T06:00:00.000Z";
 
   const fromMoment = moment(fromTs);

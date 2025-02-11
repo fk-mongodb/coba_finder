@@ -1,3 +1,3 @@
-const HOST = "dev.qps1e.mongodb.net";
-const CLUSTER = "DEV";
+const HOST = "prd.hixjx.mongodb.net";
+const CLUSTER = "PRD";
 module.exports = { HOST, CLUSTER }
