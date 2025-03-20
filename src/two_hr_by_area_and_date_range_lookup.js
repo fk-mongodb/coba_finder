@@ -159,6 +159,10 @@ async function ops(client) {
     projectStage,
   ];
 
+
+  console.log(JSON.stringify(pipeline));
+
+
   const forecastColl = db.collection("two_hr_forecast_by_area");
 
   const customPromise = new Promise(async (resolve, reject) => {
